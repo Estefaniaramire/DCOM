@@ -1,0 +1,15 @@
+C:\Users\jimen\source\repos\serv\serv\obj\Debug\serv.vbproj.AssemblyReference.cache
+C:\Users\jimen\source\repos\serv\serv\obj\Debug\serv.Resources.resources
+C:\Users\jimen\source\repos\serv\serv\obj\Debug\serv.vbproj.GenerateResource.cache
+C:\Users\jimen\source\repos\serv\serv\obj\Debug\serv.vbproj.CoreCompileInputs.cache
+C:\Users\jimen\source\repos\serv\serv\bin\Debug\serv.exe.config
+C:\Users\jimen\source\repos\serv\serv\bin\Debug\serv.exe
+C:\Users\jimen\source\repos\serv\serv\bin\Debug\serv.pdb
+C:\Users\jimen\source\repos\serv\serv\bin\Debug\serv.xml
+C:\Users\jimen\source\repos\serv\serv\bin\Debug\COMM.dll
+C:\Users\jimen\source\repos\serv\serv\bin\Debug\COMM.pdb
+C:\Users\jimen\source\repos\serv\serv\bin\Debug\COMM.xml
+C:\Users\jimen\source\repos\serv\serv\obj\Debug\serv.vbproj.CopyComplete
+C:\Users\jimen\source\repos\serv\serv\obj\Debug\serv.exe
+C:\Users\jimen\source\repos\serv\serv\obj\Debug\serv.xml
+C:\Users\jimen\source\repos\serv\serv\obj\Debug\serv.pdb

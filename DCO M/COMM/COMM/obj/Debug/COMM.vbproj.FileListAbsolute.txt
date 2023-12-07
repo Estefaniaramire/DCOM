@@ -1,0 +1,10 @@
+C:\Users\jimen\source\repos\COMM\COMM\bin\Debug\COMM.dll
+C:\Users\jimen\source\repos\COMM\COMM\bin\Debug\COMM.pdb
+C:\Users\jimen\source\repos\COMM\COMM\bin\Debug\COMM.xml
+C:\Users\jimen\source\repos\COMM\COMM\obj\Debug\COMM.vbproj.AssemblyReference.cache
+C:\Users\jimen\source\repos\COMM\COMM\obj\Debug\COMM.Resources.resources
+C:\Users\jimen\source\repos\COMM\COMM\obj\Debug\COMM.vbproj.GenerateResource.cache
+C:\Users\jimen\source\repos\COMM\COMM\obj\Debug\COMM.vbproj.CoreCompileInputs.cache
+C:\Users\jimen\source\repos\COMM\COMM\obj\Debug\COMM.dll
+C:\Users\jimen\source\repos\COMM\COMM\obj\Debug\COMM.xml
+C:\Users\jimen\source\repos\COMM\COMM\obj\Debug\COMM.pdb
